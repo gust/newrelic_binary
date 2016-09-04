@@ -1,0 +1,10 @@
+afeec443525e4401b44190300f428075 *nrsysmond.cfg
+7d80d5577c380c404d06997533c5be82 *daemon/nrsysmond.x86
+15b9a33ec7bb48fc1d897702d15ef309 *daemon/nrsysmond.x64
+7ec0afa52754577dec92d53d861ad166 *scripts/nrsysmond-config
+b0c989ee748c95d28cf2bd92dd675e9d *scripts/newrelic-sysmond.sysconfig.rhel
+85398b3e13689b4fba4632c7f7eee2dd *scripts/newrelic-sysmond.init.rhel
+c0a864f84457f8b47529aa2417d0c8ad *scripts/newrelic-sysmond.init.debian
+b0c989ee748c95d28cf2bd92dd675e9d *scripts/newrelic-sysmond.default.debian
+9b83733a6802177735b1e10b9bfbcda8 *INSTALL.txt
+3a06412cf184fc109e5aa78a2c69b3e3 *LICENSE.txt
